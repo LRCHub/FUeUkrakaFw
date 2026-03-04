@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "I Surrender",
+  "base_artist": "OVAL SISTEM",
+  "createdAt": "2026-03-04T04:16:54.937791Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Surrender (To the Spirit of the Night)",
+      "artist": "Samantha Fox",
+      "has_synced": true,
+      "path": "select/01_I_Surrender_(To_the_Spirit_of_the_Night)_Samantha_Fox.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Surrender (To the Spirit of the Night) - 12\" Remix",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/02_I_Surrender_(To_the_Spirit_of_the_Night)_-_12__Remix_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Surrender (To the Spirit of the Night) (12\" Remix)",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/03_I_Surrender_(To_the_Spirit_of_the_Night)_(12__Remix)_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Surrender (To The Spirit Of The Night) - Extended Remix",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/04_I_Surrender_(To_The_Spirit_Of_The_Night)_-_Extended_Remix_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Surrender (To the Spirit of the Night) (Extended Remix)",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/05_I_Surrender_(To_the_Spirit_of_the_Night)_(Extended_Remix)_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Surrender (To the Spirit of the Night) - Original Mix",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/06_I_Surrender_(To_the_Spirit_of_the_Night)_-_Original_Mix_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Surrender (To the Spirit of the Night) (Original Mix)",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/07_I_Surrender_(To_the_Spirit_of_the_Night)_(Original_Mix)_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Surrender",
+      "artist": "Kate Ryan",
+      "has_synced": true,
+      "path": "select/08_I_Surrender_Kate_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Surrender",
+      "artist": "Dokken",
+      "has_synced": true,
+      "path": "select/09_I_Surrender_Dokken.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Surrender",
+      "artist": "Ford & Lopatin",
+      "has_synced": false,
+      "path": "select/10_I_Surrender_Ford_&_Lopatin.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Surrender",
+      "artist": "Iron Savior",
+      "has_synced": false,
+      "path": "select/11_I_Surrender_Iron_Savior.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Surrender - Live",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/12_I_Surrender_-_Live_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Surrender (live)",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/13_I_Surrender_(live)_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Surrender",
+      "artist": "Sita",
+      "has_synced": false,
+      "path": "select/14_I_Surrender_Sita.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Surrender",
+      "artist": "The Primitives",
+      "has_synced": false,
+      "path": "select/15_I_Surrender_The_Primitives.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Surrender",
+      "artist": "Hughes Turner Project",
+      "has_synced": false,
+      "path": "select/16_I_Surrender_Hughes_Turner_Project.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Surrender",
+      "artist": "Rainbow",
+      "has_synced": true,
+      "path": "select/17_I_Surrender_Rainbow.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Surrender",
+      "artist": "Rainbow",
+      "has_synced": true,
+      "path": "select/18_I_Surrender_Rainbow.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Surrender (Album Version)",
+      "artist": "Rainbow",
+      "has_synced": true,
+      "path": "select/19_I_Surrender_(Album_Version)_Rainbow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Surrender",
+      "artist": "OVAL SISTEM",
+      "has_synced": false,
+      "path": "select/pl_01_I_Surrender_OVAL_SISTEM.txt"
+    }
+  ]
+}
